@@ -1,4 +1,4 @@
 <?php
 $number=$_GET['number'];
-echo $number;
+echo intval($number);
 ?>
